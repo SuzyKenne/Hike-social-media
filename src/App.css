@@ -4,3 +4,9 @@
   --color-yellow-dark: #ffd37d;
   --color-text: #d9e4ed;
 }
+
+body{
+  color: var(--color-text);
+  background-color: var(--color-background);
+  font-family: Helvetica;
+}
