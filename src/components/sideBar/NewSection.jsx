@@ -16,6 +16,7 @@ function NewSection() {
             <p className="text-xs text-[#d9e4ed]">2h ago</p>
           </div>
         </div>
+
         <div className="bg-[#323539] rounded-lg overflow-hidden">
           <img
             src="/imagees/hike-1.png"
@@ -29,6 +30,7 @@ function NewSection() {
             <p className="text-xs text-[#d9e4ed]">2h ago</p>
           </div>
         </div>
+
         <div className="bg-[#323539] rounded-lg overflow-hidden">
           <img
             src="/imagees/hike-3.png"
@@ -42,6 +44,7 @@ function NewSection() {
             <p className="text-xs text-[#d9e4ed]">2h ago</p>
           </div>
         </div>
+
         <div className="bg-[#323539] rounded-lg overflow-hidden">
           <img
             src="/imagees/hike-1.png"

@@ -2,8 +2,8 @@ import ProfileSideBar from './components/sideBar/ProfileSideBar';
 import TopBar from './components/sideBar/TopBar';
 import './App.css';
 import FollowSuggestions from './components/sideBar/FollowSuggestions';
-import Header from './components/main-component/Header';
-import UpComingHikes from './components/main-component/UpComingHikes';
+import Header from './components/mainComponent/Header';
+import UpComingHikes from './components/mainComponent/UpComingHikes';
 
 function App() {
   return (
